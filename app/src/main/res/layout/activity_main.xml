@@ -53,7 +53,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
-                android:text="Free throw"
+                android:text="@string/free_throw"
                 android:onClick="scoreFreeThrow"/>
         </LinearLayout>
 
@@ -107,7 +107,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="24dp"
             android:layout_marginRight="24dp"
-            android:text="Free throw"
+            android:text="@string/free_throw"
             android:onClick="scoreFreeThrowB"/>
         </LinearLayout>
 
